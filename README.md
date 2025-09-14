@@ -1,10 +1,10 @@
-# 🗿📄✂️ Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/)
 
-A classic Rock-Paper-Scissors game implemented in Python. This project provides a clean, console-based interface for playing against a computer opponent with score tracking and robust input validation.
+
 
 ---
 
